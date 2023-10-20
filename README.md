@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AHBMaster
 - 👀 I’m interested in Hardware and Software Programming
-- 🌱 I’m currently learning Python - SystemVerilog - C
-- 💞️ I’m looking to collaborate on Python - SystemVerilog
+- 🌱 I do Python - C - Verilog
+- 💞️ Interests : AI dev - Automation and Scripting - Hardware Programming and HW/SW Interfacing
 
 
 <!---
