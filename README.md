@@ -1,2 +1,2 @@
 - 🌱 .py - .c - .v/.sv
-- 💞️ AI dev - Automation and Scripting - Hardware Programming and HW/SW Interfacin
+- 💞️ AI dev - HW Prog and HW/SW Interfacing
